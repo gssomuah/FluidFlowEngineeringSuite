@@ -1,8 +1,7 @@
-\# Ginberg
+\# FLUID FLOW ENGINEERING SUITE
 
 
-
-Ginberg is a Python-based project with a Streamlit application and supporting engineering code.
+FLUID FLOW ENGINEERING SUITE is a Python-based project with a Streamlit application and supporting engineering code.
 
 
 
@@ -12,7 +11,7 @@ Ginberg is a Python-based project with a Streamlit application and supporting en
 
 ```text
 
-Ginberg/
+FLUID FLOW ENGINEERING SUITE/
 
 ├── .gitignore
 
@@ -90,7 +89,7 @@ Git is not currently initialized in this project directory. Git setup can be per
 
 
 
-Before making Git-related changes, create a separate backup of the entire `Ginberg` folder. The backup should preserve the existing project files without modifying or deleting the original project.
+Before making Git-related changes, create a separate backup of the entire `FLUID FLOW ENGINEERING SUITE` folder. The backup should preserve the existing project files without modifying or deleting the original project.
 
 
 
